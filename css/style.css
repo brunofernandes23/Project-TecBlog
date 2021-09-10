@@ -9,3 +9,45 @@ body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     background: #eee;
 }
+
+/*
+**** Layout ****
+*/
+#area-cabecalho {
+    background-color: #e83427;
+    padding: 15px;
+    text-align: center;
+}
+
+#area-logo, #area-menu {
+    padding: 10px;
+}
+
+/*
+**** Formatação dos menus ****
+*/
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: #fff;
+    padding: 8px 12px;
+}
+
+a:hover {
+    color: #e83427;
+    background: #fff;
+}
+
+/*
+**** Formatações gerais ****
+*/
+
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+.branco {
+    color: #fff;
+}
