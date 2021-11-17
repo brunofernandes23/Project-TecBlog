@@ -1,4 +1,4 @@
-O projeto inicialmente foi realizado apenas a página Home no curso da Udemy que realizo. Decidi completar ele para fins de prática e gostei bastante do resultado. Foi usado apenas HTML/CSS, o site não se encontra responsivo, porém como prática foi bastante satisfátorio.
+The project was initially carried out only on the Home page in the Udemy course that I do. I decided to complete it for practice purposes and really liked the result. Only HTML/CSS was used, the site is not responsive, but as a practice it was quite satisfactory.
 
-Acesse e navegue pelo site usando o link: 
+Access and browse the site using the link: 
 https://pedantic-yalow-16d671.netlify.app
